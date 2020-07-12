@@ -447,6 +447,7 @@ iframe {
 	margin-left: 1vw;
 	/*border: 1px solid #edf5e1;*/
 	margin-bottom: 2vh;
+	overflow: hidden;
 
 	/* Styling */
 	color: #edf5e1;

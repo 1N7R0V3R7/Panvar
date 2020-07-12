@@ -1,0 +1,13 @@
+.signature {
+	/* Styling */
+	color: #edf5e1;
+	text-align: center;
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 1.3vw;
+}
+.by {
+	/* Styling */
+	border-top: 1px solid #edf5e1;
+}
